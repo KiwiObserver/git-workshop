@@ -44,6 +44,8 @@ The following can be thought of as a quick 'cheat sheet' to help you remember th
 
 ### Basics
 
+hello 2 
+
 * `git init`: creates a new git repository, with data stored in the (hidden) '.git' directory
   * Don't edit anything in the .git directory
   * Don't put a git repo inside a dropbox/oneDrive etc. folder: they do not play nicely with each other
