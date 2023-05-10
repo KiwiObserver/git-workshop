@@ -78,6 +78,8 @@ The following can be thought of as a quick 'cheat sheet' to help you remember th
 
 ### FAQ
 
+hello 
+
 * Why do I need to "stage" and then "add" - why isn't this one step
   * While it is common to want to commit _all_ the changes you have made in one go, it's also common for us _not_ to want to do this. Having a two-step process allows us to commit some of the changes we have made, without committing others. (You can even selectively commit only part of a file)
   * If you want to do both in one step, you may use `git commit -a -m "Commit message"`
